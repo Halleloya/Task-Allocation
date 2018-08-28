@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1515898244 source:c:\users\sony\desktop\cb\sample\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<stdlib.h>
+	<direct.h>
+
